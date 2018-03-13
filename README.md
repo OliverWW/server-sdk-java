@@ -31,21 +31,18 @@ Rong Cloud Server SDK in Java.
 
 ## 示例
 
-###### [用户模块示例](./src/main/java/io/rong/example/user/UserExample.java)
+###### [用户模块示例](./src/main/java/io/rong/example/user)
 
 ###### [消息模块示例](./src/main/java/io/rong/example/message/MessageExample.java)
 
-###### [聊天室模块示例](./src/main/java/io/rong/example/chatroom/Chatroom/Example.java)
+###### [群组模块示例](./src/main/java/io/rong/example/group)
 
-###### [群组模块示例](./src/main/java/io/rong/example/group/GroupExample.java)
+###### [聊天室模块示例](./src/main/java/io/rong/example/chatroom/)
 
-###### [绘画模块示例](./src/main/java/io/rong/example/conversation/ConversationExample.java)
+###### [会话模块示例](./src/main/java/io/rong/example/conversation/ConversationExample.java)
 
 ###### [敏感词模块示例](./src/main/java/io/rong/example/sensitive/SensitiveExample.java)
 
-###### [推送模块示例](./src/main/java/io/rong/example/push/PushExample.java)
-
-###### [消息模块示例](./src/main/java/io/rong/example/sms/SmsExample.java)
 
 # 版本说明
 为方便开发者的接入使用，更好的对融云 Server SDK 进行维护管理，现更新SDK 3.0.0,老版本的 Server SDK仍可使用
